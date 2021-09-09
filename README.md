@@ -6,7 +6,7 @@ The following are some global research internship positions:
 # -------- International Internships --------
 
 ### 1. [MITACS Gloablink](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship), for research positions in Canada.
-   #### Eligibility : CGPA>8 
+   #### Eligibility : CGPA>7.5, minimum 3 sems left for graduation
    * Weekly stipend: 200 CAD(12*200 = 2400 CAD) (12 weeks) 
    * Air fare: 1500 CAD
    * Visa: 155 CAD + Health Insurance
